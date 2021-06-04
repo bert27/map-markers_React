@@ -1,5 +1,6 @@
 # map-markers_React
- Use of themoviedb.org to obtain the data. Grid view with back and next. Favorites menu.
+Map with responsive design.
+Searching for a site will create a bookmark. Previous ones are not deleted.
  
  
 1. Download
