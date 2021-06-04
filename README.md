@@ -3,7 +3,7 @@
  
  
 1. Download
-2. Place in the Movies_Hooks folder and put -> npm install to install all the dependencies.
+2. Place in the map-markers_React folder and put -> npm install to install all the dependencies.
 3. In the same folder put -> npm start.
 
 
