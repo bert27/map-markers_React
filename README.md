@@ -26,11 +26,11 @@ Si deja de funcionar, cambiar la apiKey por una vuestra.
 --
 Al seleccionar un lugar en el mapa, se envía una petición a google con el lugar.
 Mediante un servicio que ofrecen de geocoding devuelve las coordenadas.
-Estas se guardan en un array de objetos en redux y a su ves se van visualizando en el mapa.
+Estas se guardan en un array de objetos en redux y a su vez se van visualizando en el mapa.
 Cada marcador tiene un callback asociado al hacer click para poder añadir acciones en el fúturo.
 --
 El servicio de google devuelve más datos como las fotos asociadas a ese lugar y otros detalles.
-LA aplicación podría escalar a funcionalidades como guardar lugares favoritos con sus fotos para consultar después de manera rápida,
+La aplicación podría escalar a funcionalidades como guardar lugares favoritos con sus fotos para consultar después,
 compartir restaurantes favoritos o descubrir lugares misteriosos junto con otros usuarios. 
 
 
