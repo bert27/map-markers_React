@@ -24,7 +24,7 @@ El proyecto contiene una apiKey de googleMaps para el funcionamiento de los serv
 Incluye un test para comprobar que funciona correctamente.
 Si deja de funcionar, cambiar la apiKey por una vuestra.
 --
-Al seleccionar un lugar en el mapa, se envía una peticióin a google con el lugar.
+Al seleccionar un lugar en el mapa, se envía una petición a google con el lugar.
 Mediante un servicio que ofrecen de geocoding devuelve las coordenadas.
 Estas se guardan en un array de objetos en redux y a su ves se van visualizando en el mapa.
 Cada marcador tiene un callback asociado al hacer click para poder añadir acciones en el fúturo.
